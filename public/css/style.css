@@ -20,8 +20,26 @@ body {
   background-color: rgb(238, 238, 238);
 }
 
-.content h3 {
+.content h4 {
   margin-top: 0;
+}
+
+.titles {
+  border-right: solid black 1px;
+}
+
+.all-bills-title {
+  padding-bottom: 1em;
+}
+
+.bills {
+  min-height: 400px;
+  background-color: white;
+  margin-bottom: 1em;
+}
+
+.group {
+  height: 100%;
 }
 
 footer {
