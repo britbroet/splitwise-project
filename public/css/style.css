@@ -54,6 +54,16 @@ body {
   height: 100%;
 }
 
+.user:hover {
+  background-color: #ddd;
+}
+
+.user img {
+  height: 36px;
+  width: 36px;
+  border-radius: 18px;
+}
+
 footer {
   text-align: center;
   margin-top: 2rem;
