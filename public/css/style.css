@@ -41,6 +41,15 @@ body {
   margin-bottom: 1em;
 }
 
+.bill {
+  border-bottom: solid #999 1px;
+}
+
+.bill:hover {
+  background-color: #eee;
+  cursor: pointer;
+}
+
 .group {
   height: 100%;
 }
