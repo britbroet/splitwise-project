@@ -54,6 +54,18 @@ body {
   margin-right: 1em;
 }
 
+.value {
+  font-weight: bold;
+}
+
+.value.lent {
+  color: rgb(120, 189, 162);
+}
+
+.value.owe {
+  color: rgb(234, 114, 55);
+}
+
 .cost .value {
   text-align: right;
 }
