@@ -43,6 +43,23 @@ body {
 
 .bill {
   border-bottom: solid #999 1px;
+  height: 85px;
+}
+
+.amounts, .amount {
+  display: inline-block;
+}
+
+.amount {
+  margin-right: 1em;
+}
+
+.cost .value {
+  text-align: right;
+}
+
+.cost .you {
+  text-align: left;
 }
 
 .bill:hover {
